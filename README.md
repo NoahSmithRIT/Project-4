@@ -1,7 +1,13 @@
 # Project-4
-This project is about the interaction of three screens
 
-My proposal is to make a visual novel like function and input as many interactive as I can. 
-It will mainly take place in the interior room. You can talk to the characters and interact with the character’s stuff.
-This project is not a dating sims game. 
-It’s more like a generic point and click game.
+Description: 
+I will be doing three versions of tic-tac-toe. The first will be a basic game of tic-tac-toe using JQuery, along with some animation. The next version will also be a basic game of tic-tac-toe, but will include multiple options for changing the way the game looks. This could include the X and O pieces using different animations or changing the color of the pieces or board. This will be done with either buttons or a drop-down menu. The third will be a game of ultimate tic-tac-toe. In ultimate tic-tac-toe there are nine “local boards” arranged on one “global board”. Play starts in the middle and wherever a turn is taken indicates what local board is played in next. For example, if an X is placed in the local top right from the middle global board section, the O must be placed somewhere in the local board of the top right section of the global board. The goal is to get tic-tac-toe on the global board. I will have to include some way for the players to know what board is active, problem by changing the background color of that board. Materialize will be used as a framework for the webpages that the tic-tac-toe boards will be on.
+
+Partners: Working by myself
+
+What I will need to learn: 
+I will need to learn how to use one or more JavaScript libraries for the animation. Currently this will be Animate.css for simpler animations and I will likely use Anime.js for any custom animation. I will also need to learn more about JQuery to be able to make a working game of tic-tac-toe.
+
+Link to GitHub:
+https://github.com/LawleyFall2017/Project-4
+
