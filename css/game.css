@@ -20,9 +20,9 @@
     float: left;
     text-align: center;
     font-size: 150px;
-    font-family: helvetica;
-    color: white;
+    color: blue;
     cursor: pointer;
+    font-family: "serif";
 }
 .matched{
     color: blue;
@@ -55,7 +55,7 @@
 }
 #board{
     font-size: 30px;
-    font-family: helvetica;
-    color: black;
+    color: white;
     margin-top: 10px;
+    text-align: center;
 }
