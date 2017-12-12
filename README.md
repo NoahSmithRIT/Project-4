@@ -11,3 +11,6 @@ I will need to learn how to use one or more JavaScript libraries for the animati
 Link to GitHub:
 https://github.com/LawleyFall2017/Project-4
 
+
+Changes to the project apart from what was described in the description:
+The first version is just a basic version of tic-tac-toe. The third page was going to have an AI opponenet instead of being a game of ultimate tic-tac-toe. Although I did not have time to do the last page, so it is the same as the first. Also, Materialize was not compatible with the tic-tac-toe board as they both use the "row" and "col" classes, so I switched to using flexbox for the layout of the pages.
