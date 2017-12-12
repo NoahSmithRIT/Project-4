@@ -17,6 +17,8 @@ body {
     padding: 5px;
     flex: 3 1 60%;
     order: 2;
+    align-content: center;
+    text-align: center;
 }
 
 #main > nav {
@@ -42,6 +44,16 @@ header {
     border: 1px dotted black;
 }
 
+img {
+    max-width: 200px;
+    height: auto;
+    transition: max-width 1s;
+}
+
+img:hover {
+    max-width: 400px;
+}
+
 /* ----MOBILE SECTION---- */
 @media all and (max-width: 800px) {
 
@@ -61,5 +73,13 @@ header {
     #main > aside {
         min-height: 50px;
         max-height: 200px;
+    }
+
+    img {
+        max-width: 100px;
+    }
+
+    img:hover {
+        max-width: 100px;
     }
 }
